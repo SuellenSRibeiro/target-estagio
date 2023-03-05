@@ -1,0 +1,21 @@
+
+Como eles estão se aproximando um do outro, a distância que precisam percorrer é a soma das distâncias que eles já percorreram quando se encontram. Assim:
+
+tempo = (distância total) / (velocidade do carro + velocidade do caminhão)
+tempo = (100 km) / ((110 km/h + 80 km/h)/2)
+tempo = 100 km / 95 km/h
+tempo = 1,05 h
+
+Agora, vamos calcular a distância percorrida por cada veículo até o ponto de encontro. Sabemos que o caminhão leva 5 minutos a mais para passar em cada um dos dois pedágios na rodovia. Assim, a distância percorrida pelo caminhão é:
+
+Distância percorrida pelo caminhão = velocidade do caminhão * tempo + 5 minutos * 2
+Distância percorrida pelo caminhão = 80 km/h * 1,05 h + 5 min * 2
+Distância percorrida pelo caminhão = 84,2 km
+
+Já a distância percorrida pelo carro é:
+
+Distância percorrida pelo carro = velocidade do carro * tempo
+Distância percorrida pelo carro = 110 km/h * 1,05 h
+Distância percorrida pelo carro = 115,8 km
+
+Portanto, quando eles se encontrarem, o caminhão estará mais próximo de Ribeirão Preto, pois percorreu uma distância menor. O carro terá percorrido uma distância maior, pois viajou por mais tempo em uma velocidade mais alta.
